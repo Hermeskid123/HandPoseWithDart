@@ -1,0 +1,241 @@
+Finished flattening dataset.
+  - Total images: 9600
+  - Total joint3d labels: 48
+  - Total joint2d labels: 48
+  - Output saved to: /home/preston/Public/DART1/labels.pkl
+python trainResNet18NW.py 
+
+Epoch 1/20
+Train Loss: 0.015 mm | Val Loss: 0.009 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 2/20
+Train Loss: 0.008 mm | Val Loss: 0.008 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 3/20
+Train Loss: 0.006 mm | Val Loss: 0.006 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 4/20
+Train Loss: 0.005 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 5/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 6/20
+Train Loss: 0.004 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 7/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 8/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 9/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 10/20
+Train Loss: 0.003 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 11/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 12/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 13/20
+Train Loss: 0.002 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+
+Epoch 14/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 15/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 16/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 17/20
+Train Loss: 0.001 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 18/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 19/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 20/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved
+python trainResNet18WL.py 
+/home/preston/miniconda3/envs/torch/lib/python3.13/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/preston/miniconda3/envs/torch/lib/python3.13/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+
+Epoch 1/20
+Train Loss: 0.018 mm | Val Loss: 0.010 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 2/20
+Train Loss: 0.008 mm | Val Loss: 0.006 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 3/20
+Train Loss: 0.005 mm | Val Loss: 0.005 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 4/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 5/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 6/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+
+Epoch 7/20
+Train Loss: 0.003 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 8/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 9/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 10/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 11/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+
+Epoch 12/20
+Train Loss: 0.002 mm | Val Loss: 0.002 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 13/20
+Train Loss: 0.002 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 14/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 15/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 16/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 17/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 18/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+
+Epoch 19/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+Epoch 20/20
+Train Loss: 0.001 mm | Val Loss: 0.001 mm                                                                                                                                                                                                   
+Model saved!
+
+python trainSimplePoseCNN.py 
+
+Epoch 1/20
+Train Loss: 0.011 mm | Val Loss: 0.009 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 2/20
+Train Loss: 0.009 mm | Val Loss: 0.009 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 3/20
+Train Loss: 0.008 mm | Val Loss: 0.007 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 4/20
+Train Loss: 0.007 mm | Val Loss: 0.006 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 5/20
+Train Loss: 0.006 mm | Val Loss: 0.006 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 6/20
+Train Loss: 0.006 mm | Val Loss: 0.005 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 7/20
+Train Loss: 0.005 mm | Val Loss: 0.005 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 8/20
+Train Loss: 0.005 mm | Val Loss: 0.005 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 9/20
+Train Loss: 0.005 mm | Val Loss: 0.005 mm                                                                                                                                                                                                   
+
+Epoch 10/20
+Train Loss: 0.005 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 11/20
+Train Loss: 0.005 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 12/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 13/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+
+Epoch 14/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 15/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 16/20
+Train Loss: 0.004 mm | Val Loss: 0.004 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 17/20
+Train Loss: 0.004 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 18/20
+Train Loss: 0.004 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 19/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm                                                                                                                                                                                                   
+Model saved
+
+Epoch 20/20
+Train Loss: 0.003 mm | Val Loss: 0.003 mm

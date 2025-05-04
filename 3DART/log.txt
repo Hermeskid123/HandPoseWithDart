@@ -1,0 +1,6 @@
+Finished flattening dataset.
+  - Total images: 4800
+  - Total joint3d labels: 48
+  - Total joint2d labels: 48
+  - Output saved to: /home/preston/Public/DART3/labels.pkl
+
