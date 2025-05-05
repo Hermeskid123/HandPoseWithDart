@@ -1,0 +1,81 @@
+trainResNet18WL 
+
+Epoch 1/20
+Train Loss: 0.041  
+Val Loss: 0.025                                                                                                                                                                                                        
+
+Epoch 2/20
+Train Loss: 0.023  
+Val Loss: 0.022                                                                                                                                                                                                        
+
+Epoch 3/20
+Train Loss: 0.022  
+Val Loss: 0.022                                                                                                                                                                                                        
+
+Epoch 4/20
+Train Loss: 0.021  
+Val Loss: 0.021                                                                                                                                                                                                        
+
+Epoch 5/20
+Train Loss: 0.021  
+Val Loss: 0.021                                                                                                                                                                                                        
+
+Epoch 6/20
+Train Loss: 0.019  
+Val Loss: 0.017                                                                                                                                                                                                        
+
+Epoch 7/20
+Train Loss: 0.014  
+Val Loss: 0.010                                                                                                                                                                                                        
+
+Epoch 8/20
+Train Loss: 0.009  
+Val Loss: 0.007                                                                                                                                                                                                        
+
+Epoch 9/20
+Train Loss: 0.007  
+Val Loss: 0.006                                                                                                                                                                                                        
+
+Epoch 10/20
+Train Loss: 0.006  
+Val Loss: 0.005                                                                                                                                                                                                        
+
+Epoch 11/20
+Train Loss: 0.005  
+Val Loss: 0.004                                                                                                                                                                                                        
+
+Epoch 12/20
+Train Loss: 0.005  
+Val Loss: 0.004                                                                                                                                                                                                        
+
+Epoch 13/20
+Train Loss: 0.004  
+Val Loss: 0.004                                                                                                                                                                                                        
+
+Epoch 14/20
+Train Loss: 0.004  
+Val Loss: 0.003                                                                                                                                                                                                        
+
+Epoch 15/20
+Train Loss: 0.004  
+Val Loss: 0.003                                                                                                                                                                                                        
+
+Epoch 16/20
+Train Loss: 0.003  
+Val Loss: 0.003                                                                                                                                                                                                        
+
+Epoch 17/20
+Train Loss: 0.003  
+Val Loss: 0.003                                                                                                                                                                                                        
+
+Epoch 18/20
+Train Loss: 0.003  
+Val Loss: 0.002                                                                                                                                                                                                        
+
+Epoch 19/20
+Train Loss: 0.003  
+Val Loss: 0.002                                                                                                                                                                                                        
+
+Epoch 20/20
+Train Loss: 0.003  
+Val Loss: 0.002                                                                                                                                                                                                        

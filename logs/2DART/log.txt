@@ -1,0 +1,6 @@
+Finished flattening dataset.
+  - Total images: 7500
+  - Total joint3d labels: 75
+  - Total joint2d labels: 75
+  - Output saved to: /home/preston/Public/testDelLater/labels.pkl
+
